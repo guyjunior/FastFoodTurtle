@@ -1,0 +1,1707 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="https://www.wikidata.org/wiki/Q243465#"
+    xmlns:j.1="https://www.wikidata.org/wiki/Q11254#"
+    xmlns:j.2="https://www.wikidata.org/wiki/Q11358#"
+    xmlns:j.3="https://www.wikidata.org/wiki/Q970537#"
+    xmlns:j.4="https://www.wikidata.org/wiki/Q2424752#"
+    xmlns:j.5="https://www.wikidata.org/wiki/Q1751429#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.6="https://www.wikidata.org/wiki/Q215210#"
+    xmlns:j.7="https://www.wikidata.org/wiki/Q8054#"
+    xmlns="https://www.wikidata.org/wiki/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:j.8="https://www.wikidata.org/wiki/Q130964#"
+    xmlns:j.9="https://www.wikidata.org/wiki/Q127980#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/60">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/60"/>
+    <j.1:SODIO>538</j.1:SODIO>
+    <URI>https://www.wikidata.org/wiki/Q120508987#Batata Suprema grande </URI>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.7:PROTEINA>15</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>59</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120508987</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Batata Suprema grande </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>33</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>604</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>11</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/1">
+    <URI>https://www.wikidata.org/wiki/Q120507431#McFritas Grande</URI>
+    <WIKIDATA_ID>Q120507431</WIKIDATA_ID>
+    <j.7:PROTEINA>6</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>21</j.9:GORDURA_ALL>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>421</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/1"/>
+    <j.4:PRODUTO>McFritas Grande</j.4:PRODUTO>
+    <j.1:SODIO>375</j.1:SODIO>
+    <j.2:CARBOIDRATOS>49</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/29">
+    <WIKIDATA_ID>Q120508923</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>53</j.9:GORDURA_ALL>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.8:CALORIAS>864</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/29"/>
+    <j.7:PROTEINA>49</j.7:PROTEINA>
+    <j.4:PRODUTO>Stacker Duplo Bacon </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508923#Stacker Duplo Bacon </URI>
+    <j.2:CARBOIDRATOS>46</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1.685</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>23</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/69">
+    <j.2:CARBOIDRATOS>25</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>26</j.7:PROTEINA>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120508996#Double Cheese</URI>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Double Cheese</j.4:PRODUTO>
+    <j.1:SODIO>466</j.1:SODIO>
+    <WIKIDATA_ID>Q120508996</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/69"/>
+    <j.8:CALORIAS>399</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/17">
+    <j.2:CARBOIDRATOS>37</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>McChicken</j.4:PRODUTO>
+    <j.7:PROTEINA>17</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/17"/>
+    <j.1:SODIO>693</j.1:SODIO>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q2725639#McChicken</URI>
+    <WIKIDATA_ID>Q2725639</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>396</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/21">
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.8:CALORIAS>1.167</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508114#WHOPPER® Duplo </URI>
+    <j.9:GORDURA_ALL>76</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>48</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1.179</j.1:SODIO>
+    <WIKIDATA_ID>Q120508114</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/21"/>
+    <j.3:GORDURA_SAT>76</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>WHOPPER® Duplo </j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>65</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/33">
+    <j.2:CARBOIDRATOS>44</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q8247846#Big King® </URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/33"/>
+    <j.4:PRODUTO>Big King® </j.4:PRODUTO>
+    <WIKIDATA_ID>Q8247846</WIKIDATA_ID>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.7:PROTEINA>35</j.7:PROTEINA>
+    <j.1:SODIO>1.038</j.1:SODIO>
+    <j.3:GORDURA_SAT>18</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>46</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>739</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/45">
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508947#BK® Chicken Crispy </URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/45"/>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <WIKIDATA_ID>Q120508947</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>BK® Chicken Crispy </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>19</j.7:PROTEINA>
+    <j.1:SODIO>944</j.1:SODIO>
+    <j.8:CALORIAS>406</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>42</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/57">
+    <j.7:PROTEINA>5</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508984#Onion Rings média </URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.1:SODIO>570</j.1:SODIO>
+    <WIKIDATA_ID>Q120508984</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Onion Rings média </j.4:PRODUTO>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.8:CALORIAS>319</j.8:CALORIAS>
+    <j.9:GORDURA_ALL>17</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/57"/>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+    <j.2:CARBOIDRATOS>36</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/61">
+    <j.1:SODIO>764</j.1:SODIO>
+    <j.6:FIBRA>10</j.6:FIBRA>
+    <j.7:PROTEINA>10</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>27</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Batata Furiosa média </j.4:PRODUTO>
+    <j.8:CALORIAS>517</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/61"/>
+    <j.2:CARBOIDRATOS>55</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120508988</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120508988#Batata Furiosa média </URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/9">
+    <j.8:CALORIAS>505</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/9"/>
+    <j.1:SODIO>876</j.1:SODIO>
+    <j.3:GORDURA_SAT>14</j.3:GORDURA_SAT>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120333167#Cheddar McMelt</URI>
+    <j.7:PROTEINA>29</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>29</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>32</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120333167</WIKIDATA_ID>
+    <j.4:PRODUTO>Cheddar McMelt</j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/73">
+    <j.6:FIBRA>43</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>11</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120509000#Tentador Carne</URI>
+    <j.3:GORDURA_SAT>1</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>62</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/73"/>
+    <j.0:GORDURA_TRAN>30</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>1549</j.8:CALORIAS>
+    <j.4:PRODUTO>Tentador Carne</j.4:PRODUTO>
+    <j.1:SODIO>0</j.1:SODIO>
+    <j.9:GORDURA_ALL>1931</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120509000</WIKIDATA_ID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/85">
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120507508</WIKIDATA_ID>
+    <j.7:PROTEINA>11</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/85"/>
+    <j.9:GORDURA_ALL>7</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>21</j.2:CARBOIDRATOS>
+    <j.1:SODIO>107</j.1:SODIO>
+    <j.6:FIBRA>0</j.6:FIBRA>
+    <j.4:PRODUTO>Cheeseburguer Frango</j.4:PRODUTO>
+    <j.8:CALORIAS>161</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120507508#Cheeseburguer Frango</URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/104">
+    <WIKIDATA_ID>Q120508193</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120508193#Batata Ondulada Mega</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/104"/>
+    <j.9:GORDURA_ALL>9</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.6:FIBRA>7</j.6:FIBRA>
+    <j.1:SODIO>34</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>311</j.8:CALORIAS>
+    <j.7:PROTEINA>6</j.7:PROTEINA>
+    <j.4:PRODUTO>Batata Ondulada Mega</j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>51</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/97">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Batata Canoa Grande + Franlitos</j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>62</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/97"/>
+    <WIKIDATA_ID>Q120508172</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>27</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>573</j.8:CALORIAS>
+    <j.1:SODIO>1335</j.1:SODIO>
+    <j.7:PROTEINA>12</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508172#Batata Canoa Grande + Franlitos</URI>
+    <j.6:FIBRA>7</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/0">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.4:PRODUTO>McNuggets 10UN</j.4:PRODUTO>
+    <j.1:SODIO>75</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>386</j.8:CALORIAS>
+    <j.7:PROTEINA>23</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>21</j.2:CARBOIDRATOS>
+    <j.9:GORDURA_ALL>21</j.9:GORDURA_ALL>
+    <URI>https://www.wikidata.org/wiki/Q135888#McNuggets 10UN</URI>
+    <j.6:FIBRA>0</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/0"/>
+    <WIKIDATA_ID>Q135888</WIKIDATA_ID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/18">
+    <j.4:PRODUTO>McChickenBacon</j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508113#McChickenBacon</URI>
+    <j.2:CARBOIDRATOS>37</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>18</j.7:PROTEINA>
+    <j.8:CALORIAS>448</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120508113</WIKIDATA_ID>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <j.1:SODIO>757</j.1:SODIO>
+    <j.9:GORDURA_ALL>25</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/58">
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120508985#Onion Rings grande </URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>24</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>7</j.7:PROTEINA>
+    <j.1:SODIO>814</j.1:SODIO>
+    <j.8:CALORIAS>455</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/58"/>
+    <WIKIDATA_ID>Q120508985</WIKIDATA_ID>
+    <j.4:PRODUTO>Onion Rings grande </j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>52</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/98">
+    <j.2:CARBOIDRATOS>43</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>6</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>315</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.1:SODIO>128</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/98"/>
+    <URI>https://www.wikidata.org/wiki/Q120508173#Batata Canoa Média</URI>
+    <j.9:GORDURA_ALL>13</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508173</WIKIDATA_ID>
+    <j.4:PRODUTO>Batata Canoa Média</j.4:PRODUTO>
+    <j.6:FIBRA>6</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/10">
+    <j.1:SODIO>838</j.1:SODIO>
+    <j.2:CARBOIDRATOS>34</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.7:PROTEINA>26</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120507442#Duplo Burguer Bacon</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>12</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120507442</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Duplo Burguer Bacon</j.4:PRODUTO>
+    <j.9:GORDURA_ALL>27</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/10"/>
+    <j.8:CALORIAS>478</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/22">
+    <j.7:PROTEINA>50</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>55</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1.793</j.1:SODIO>
+    <URI>https://www.wikidata.org/wiki/Q120508115#WHOPPER® Furioso </URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/22"/>
+    <j.4:PRODUTO>WHOPPER® Furioso </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>64</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>1.067</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <WIKIDATA_ID>Q120508115</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>24</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/34">
+    <j.1:SODIO>2.117</j.1:SODIO>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120508928#Mega Stacker 2.0 </URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Mega Stacker 2.0 </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>87</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>50</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/34"/>
+    <WIKIDATA_ID>Q120508928</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>35</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>1.311</j.8:CALORIAS>
+    <j.7:PROTEINA>75</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/46">
+    <WIKIDATA_ID>Q120508958</WIKIDATA_ID>
+    <j.4:PRODUTO>Chicken Duplo </j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>33</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>45</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1.339</j.1:SODIO>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.8:CALORIAS>591</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120508958#Chicken Duplo </URI>
+    <j.7:PROTEINA>28</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/46"/>
+    <j.6:FIBRA>4</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/103">
+    <WIKIDATA_ID>Q120509027</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/103"/>
+    <j.9:GORDURA_ALL>7</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>248</j.8:CALORIAS>
+    <j.7:PROTEINA>5</j.7:PROTEINA>
+    <j.1:SODIO>27</j.1:SODIO>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120509027#Batata Ondulada Grande</URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Batata Ondulada Grande</j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>41</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/50">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>13</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>BK® Chicken – 4 unidades </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508966#BK® Chicken – 4 unidades </URI>
+    <WIKIDATA_ID>Q120508966</WIKIDATA_ID>
+    <j.1:SODIO>296</j.1:SODIO>
+    <j.9:GORDURA_ALL>7</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>149</j.8:CALORIAS>
+    <j.7:PROTEINA>9</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/50"/>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/62">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/62"/>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>53</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>1.025</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>19</j.3:GORDURA_SAT>
+    <j.6:FIBRA>19</j.6:FIBRA>
+    <WIKIDATA_ID>Q120508989</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120508989#Batata Furiosa grande </URI>
+    <j.1:SODIO>1.519</j.1:SODIO>
+    <j.2:CARBOIDRATOS>108</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>20</j.7:PROTEINA>
+    <j.4:PRODUTO>Batata Furiosa grande </j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/74">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>29</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/74"/>
+    <j.3:GORDURA_SAT>24</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120509001#Bobs Costela Dois queijos e bacon</URI>
+    <j.1:SODIO>2182</j.1:SODIO>
+    <j.9:GORDURA_ALL>56</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120509001</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.4:PRODUTO>Bobs Costela Dois queijos e bacon</j.4:PRODUTO>
+    <j.8:CALORIAS>762</j.8:CALORIAS>
+    <j.7:PROTEINA>37</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/86">
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.1:SODIO>890</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>8</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/86"/>
+    <j.4:PRODUTO>Cheddar Frango</j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120507510#Cheddar Frango</URI>
+    <j.2:CARBOIDRATOS>27</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120507510</WIKIDATA_ID>
+    <j.8:CALORIAS>226</j.8:CALORIAS>
+    <j.7:PROTEINA>11</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/8">
+    <j.1:SODIO>1.53</j.1:SODIO>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <j.9:GORDURA_ALL>56</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>52</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>28</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>2</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120507440#Duplo Cheddar McMelt</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/8"/>
+    <j.4:PRODUTO>Duplo Cheddar McMelt</j.4:PRODUTO>
+    <j.8:CALORIAS>855</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120507440</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>36</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/90">
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Cheddar Australiano Veggie Carne</j.4:PRODUTO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/90"/>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120509020#Cheddar Australiano Veggie Carne</URI>
+    <j.6:FIBRA>7</j.6:FIBRA>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID>Q120509020</WIKIDATA_ID>
+    <j.7:PROTEINA>18</j.7:PROTEINA>
+    <j.8:CALORIAS>372</j.8:CALORIAS>
+    <j.1:SODIO>1014</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/3">
+    <URI>https://www.wikidata.org/wiki/Q6540634#Tomatinho</URI>
+    <j.7:PROTEINA>0</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/3"/>
+    <j.6:FIBRA>0</j.6:FIBRA>
+    <WIKIDATA_ID>Q6540634</WIKIDATA_ID>
+    <j.8:CALORIAS>11</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>2</j.2:CARBOIDRATOS>
+    <j.1:SODIO>0</j.1:SODIO>
+    <j.3:GORDURA_SAT>0</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>Tomatinho</j.4:PRODUTO>
+    <j.9:GORDURA_ALL>0</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/19">
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/19"/>
+    <j.2:CARBOIDRATOS>44</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>23</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q2743612</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q2743612#Big Tasty</URI>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.1:SODIO>1.38</j.1:SODIO>
+    <j.8:CALORIAS>852</j.8:CALORIAS>
+    <j.4:PRODUTO>Big Tasty</j.4:PRODUTO>
+    <j.7:PROTEINA>42</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>57</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/47">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID>Q120508961</WIKIDATA_ID>
+    <j.4:PRODUTO>Veggie Burger </j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.1:SODIO>759</j.1:SODIO>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <j.7:PROTEINA>13</j.7:PROTEINA>
+    <j.8:CALORIAS>424</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>43</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120508961#Veggie Burger </URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/47"/>
+    <j.9:GORDURA_ALL>21</j.9:GORDURA_ALL>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/59">
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.7:PROTEINA>9</j.7:PROTEINA>
+    <j.1:SODIO>337</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508986#Batata Suprema média </URI>
+    <j.8:CALORIAS>368</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>36</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>Batata Suprema média </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/59"/>
+    <WIKIDATA_ID>Q120508986</WIKIDATA_ID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/87">
+    <j.1:SODIO>1180</j.1:SODIO>
+    <j.9:GORDURA_ALL>15</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Double Cheese Frango</j.4:PRODUTO>
+    <j.8:CALORIAS>335</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120507512#Double Cheese Frango</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.7:PROTEINA>20</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/87"/>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <WIKIDATA_ID>Q120507512</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>29</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/99">
+    <j.1:SODIO>183</j.1:SODIO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/99"/>
+    <j.2:CARBOIDRATOS>61</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120508174#Batata Canoa Grande</URI>
+    <j.8:CALORIAS>449</j.8:CALORIAS>
+    <j.7:PROTEINA>9</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>8</j.6:FIBRA>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Batata Canoa Grande</j.4:PRODUTO>
+    <WIKIDATA_ID>Q120508174</WIKIDATA_ID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/11">
+    <j.8:CALORIAS>478</j.8:CALORIAS>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.1:SODIO>615</j.1:SODIO>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120507444#Duplo Burguer Queijo</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Duplo Burguer Queijo</j.4:PRODUTO>
+    <j.7:PROTEINA>27</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>12</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>25</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120507444</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/23">
+    <WIKIDATA_ID>Q120508116</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/23"/>
+    <j.4:PRODUTO>WHOPPER® Jr. </j.4:PRODUTO>
+    <j.8:CALORIAS>469</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120508116#WHOPPER® Jr. </URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>22</j.7:PROTEINA>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>11</j.3:GORDURA_SAT>
+    <j.1:SODIO>566</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>27</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/35">
+    <j.4:PRODUTO>Mega Stacker 3.0 </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508929#Mega Stacker 3.0 </URI>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/35"/>
+    <j.1:SODIO>3.212</j.1:SODIO>
+    <j.3:GORDURA_SAT>61</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>113</j.7:PROTEINA>
+    <WIKIDATA_ID>Q120508929</WIKIDATA_ID>
+    <j.8:CALORIAS>1.913</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>54</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>134</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/51">
+    <j.4:PRODUTO>BK® Chicken – 6 unidades </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508968#BK® Chicken – 6 unidades </URI>
+    <j.1:SODIO>444</j.1:SODIO>
+    <WIKIDATA_ID>Q120508968</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>14</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>20</j.2:CARBOIDRATOS>
+    <j.9:GORDURA_ALL>10</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/51"/>
+    <j.8:CALORIAS>223</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>1</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/102">
+    <j.7:PROTEINA>3</j.7:PROTEINA>
+    <j.1:SODIO>17</j.1:SODIO>
+    <j.8:CALORIAS>155</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120508181</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/102"/>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.9:GORDURA_ALL>5</j.9:GORDURA_ALL>
+    <URI>https://www.wikidata.org/wiki/Q120508181#Batata Ondulada Média</URI>
+    <j.2:CARBOIDRATOS>26</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Batata Ondulada Média</j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/63">
+    <j.1:SODIO>0</j.1:SODIO>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q89#Maçã Inteira </URI>
+    <j.9:GORDURA_ALL>0</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/63"/>
+    <j.2:CARBOIDRATOS>15</j.2:CARBOIDRATOS>
+    <j.8:CALORIAS>59</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>0</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>0</j.7:PROTEINA>
+    <WIKIDATA_ID>Q89</WIKIDATA_ID>
+    <j.4:PRODUTO>Maçã Inteira </j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/75">
+    <j.8:CALORIAS>725</j.8:CALORIAS>
+    <j.1:SODIO>1921</j.1:SODIO>
+    <j.7:PROTEINA>32</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>52</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120509002#Bobs Costela</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/75"/>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>19</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120509002</WIKIDATA_ID>
+    <j.4:PRODUTO>Bobs Costela</j.4:PRODUTO>
+    <j.3:GORDURA_SAT>0</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>33</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/91">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/91"/>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>381</j.8:CALORIAS>
+    <j.7:PROTEINA>21</j.7:PROTEINA>
+    <j.1:SODIO>391</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <WIKIDATA_ID>Q120509021</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120509021#Double Cheese Veggie Carne</URI>
+    <j.4:PRODUTO>Double Cheese Veggie Carne</j.4:PRODUTO>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>29</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/2">
+    <WIKIDATA_ID>Q120507433</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120507433#McFritas Medio</URI>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/2"/>
+    <j.2:CARBOIDRATOS>34</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>McFritas Medio</j.4:PRODUTO>
+    <j.7:PROTEINA>4</j.7:PROTEINA>
+    <j.1:SODIO>262</j.1:SODIO>
+    <j.9:GORDURA_ALL>15</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>294</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/36">
+    <j.2:CARBOIDRATOS>55</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.8:CALORIAS>1.768</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/36"/>
+    <j.9:GORDURA_ALL>120</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508930</WIKIDATA_ID>
+    <j.4:PRODUTO>Mega Stacker Atômico 2.0 </j.4:PRODUTO>
+    <j.1:SODIO>4.167</j.1:SODIO>
+    <j.7:PROTEINA>109</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>50</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508930#Mega Stacker Atômico 2.0 </URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/48">
+    <WIKIDATA_ID>Q9266</WIKIDATA_ID>
+    <j.4:PRODUTO>Salada Levíssima </j.4:PRODUTO>
+    <j.7:PROTEINA>4</j.7:PROTEINA>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.8:CALORIAS>115</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/48"/>
+    <j.9:GORDURA_ALL>6</j.9:GORDURA_ALL>
+    <URI>https://www.wikidata.org/wiki/Q9266#Salada Levíssima </URI>
+    <j.1:SODIO>331</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>1</j.2:CARBOIDRATOS>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/76">
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.7:PROTEINA>13</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>19</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>678</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120509004</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120509004#Chicken Crispy</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/76"/>
+    <j.1:SODIO>809</j.1:SODIO>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>Chicken Crispy</j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/88">
+    <WIKIDATA_ID>Q120509018</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>301</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/88"/>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.9:GORDURA_ALL>16</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Bobs Burguer Veggie Carne</j.4:PRODUTO>
+    <j.7:PROTEINA>10</j.7:PROTEINA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120509018#Bobs Burguer Veggie Carne</URI>
+    <j.1:SODIO>594</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/101">
+    <WIKIDATA_ID>Q120508179</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>5</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>0</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508179#Franlitos 12un</URI>
+    <j.2:CARBOIDRATOS>18</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/101"/>
+    <j.1:SODIO>208</j.1:SODIO>
+    <j.4:PRODUTO>Franlitos 12un</j.4:PRODUTO>
+    <j.7:PROTEINA>2</j.7:PROTEINA>
+    <j.8:CALORIAS>131</j.8:CALORIAS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/12">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/12"/>
+    <j.8:CALORIAS>545</j.8:CALORIAS>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.7:PROTEINA>34</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>31</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120507446#Triplo Burguer</URI>
+    <j.1:SODIO>1.07</j.1:SODIO>
+    <j.2:CARBOIDRATOS>33</j.2:CARBOIDRATOS>
+    <j.4:PRODUTO>Triplo Burguer</j.4:PRODUTO>
+    <WIKIDATA_ID>Q120507446</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>15</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/24">
+    <j.9:GORDURA_ALL>33</j.9:GORDURA_ALL>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.4:PRODUTO>WHOPPER® Barbecue Bacon </j.4:PRODUTO>
+    <WIKIDATA_ID>Q120508117</WIKIDATA_ID>
+    <j.8:CALORIAS>579</j.8:CALORIAS>
+    <j.1:SODIO>1.239</j.1:SODIO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/24"/>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>27</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>13</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508117#WHOPPER® Barbecue Bacon </URI>
+    <j.2:CARBOIDRATOS>41</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/40">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/40"/>
+    <j.1:SODIO>811</j.1:SODIO>
+    <j.8:CALORIAS>714</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>32</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>39</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>21</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>50</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120508937</WIKIDATA_ID>
+    <j.4:PRODUTO>BK® Original </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508937#BK® Original </URI>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/52">
+    <WIKIDATA_ID>Q120508970</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.4:PRODUTO>BK® Chicken – 10 unidades </j.4:PRODUTO>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/52"/>
+    <URI>https://www.wikidata.org/wiki/Q120508970#BK® Chicken – 10 unidades </URI>
+    <j.2:CARBOIDRATOS>33</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.9:GORDURA_ALL>17</j.9:GORDURA_ALL>
+    <j.1:SODIO>744</j.1:SODIO>
+    <j.8:CALORIAS>373</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>23</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/64">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>152</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120508991</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>16</j.2:CARBOIDRATOS>
+    <j.4:PRODUTO>Iogurte de Morango </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508991#Iogurte de Morango </URI>
+    <j.1:SODIO>40</j.1:SODIO>
+    <j.9:GORDURA_ALL>8</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>5</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/64"/>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <j.6:FIBRA>0</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/5">
+    <j.8:CALORIAS>819</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/5"/>
+    <WIKIDATA_ID>Q120508111</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>53</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Duplo Quarteirão</j.4:PRODUTO>
+    <j.3:GORDURA_SAT>25</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>52</j.7:PROTEINA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>2</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120508111#Duplo Quarteirão</URI>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>34</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1220</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/80">
+    <WIKIDATA_ID>Q120507496</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/80"/>
+    <j.4:PRODUTO>Double Barbecue Cheese</j.4:PRODUTO>
+    <j.8:CALORIAS>401</j.8:CALORIAS>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.7:PROTEINA>21</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>36</j.2:CARBOIDRATOS>
+    <j.1:SODIO>855</j.1:SODIO>
+    <URI>https://www.wikidata.org/wiki/Q120507496#Double Barbecue Cheese</URI>
+    <j.3:GORDURA_SAT>18</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/92">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/92"/>
+    <j.1:SODIO>487</j.1:SODIO>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>255</j.8:CALORIAS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.9:GORDURA_ALL>10</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Cheeseburguer Veggie Carne</j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120509022#Cheeseburguer Veggie Carne</URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID>Q120509022</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>27</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>12</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/25">
+    <j.3:GORDURA_SAT>9</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508119#WHOPPER® Rodeio </URI>
+    <j.6:FIBRA>7</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>83</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/25"/>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>765</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.4:PRODUTO>WHOPPER® Rodeio </j.4:PRODUTO>
+    <WIKIDATA_ID>Q120508119</WIKIDATA_ID>
+    <j.1:SODIO>2.233</j.1:SODIO>
+    <j.7:PROTEINA>20</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>39</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/37">
+    <WIKIDATA_ID>Q120508931</WIKIDATA_ID>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.1:SODIO>4.794</j.1:SODIO>
+    <j.7:PROTEINA>141</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/37"/>
+    <j.8:CALORIAS>2.263</j.8:CALORIAS>
+    <j.4:PRODUTO>Mega Stacker Atômico 3.0 </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120508931#Mega Stacker Atômico 3.0 </URI>
+    <j.3:GORDURA_SAT>71</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>57</j.2:CARBOIDRATOS>
+    <j.9:GORDURA_ALL>159</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/49">
+    <j.2:CARBOIDRATOS>54</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120508963</WIKIDATA_ID>
+    <j.8:CALORIAS>702</j.8:CALORIAS>
+    <j.1:SODIO>1.707</j.1:SODIO>
+    <j.4:PRODUTO>WHOPPER® de Plantas </j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>2</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120508963#WHOPPER® de Plantas </URI>
+    <j.6:FIBRA>11</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/49"/>
+    <j.9:GORDURA_ALL>42</j.9:GORDURA_ALL>
+    <j.3:GORDURA_SAT>17</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>26</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/65">
+    <WIKIDATA_ID>Q120512623</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>29</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>509</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/65"/>
+    <j.4:PRODUTO>BigBob Carne</j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120512623#BigBob Carne</URI>
+    <j.1:SODIO>858</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>38</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>24</j.7:PROTEINA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/77">
+    <j.4:PRODUTO>Cheese Egg</j.4:PRODUTO>
+    <j.7:PROTEINA>20</j.7:PROTEINA>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>18</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120509015</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/77"/>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>37</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120509015#Cheese Egg</URI>
+    <j.1:SODIO>889</j.1:SODIO>
+    <j.8:CALORIAS>391</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/89">
+    <URI>https://www.wikidata.org/wiki/Q120509019#Big Bob Veggie Carne</URI>
+    <j.9:GORDURA_ALL>27</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>491</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/89"/>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120509019</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>42</j.2:CARBOIDRATOS>
+    <j.1:SODIO>1125</j.1:SODIO>
+    <j.4:PRODUTO>Big Bob Veggie Carne</j.4:PRODUTO>
+    <j.7:PROTEINA>0</j.7:PROTEINA>
+    <j.6:FIBRA>6</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/13">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/13"/>
+    <j.7:PROTEINA>13</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120333038#McFiesta</URI>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <WIKIDATA_ID>Q120333038</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>26</j.2:CARBOIDRATOS>
+    <j.1:SODIO>372</j.1:SODIO>
+    <j.8:CALORIAS>251</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>McFiesta</j.4:PRODUTO>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>10</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/100">
+    <WIKIDATA_ID>Q120508176</WIKIDATA_ID>
+    <j.8:CALORIAS>587</j.8:CALORIAS>
+    <j.7:PROTEINA>20</j.7:PROTEINA>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/100"/>
+    <j.1:SODIO>772</j.1:SODIO>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>29</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Batata Canoa Mega</j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508176#Batata Canoa Mega</URI>
+    <j.2:CARBOIDRATOS>61</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/41">
+    <j.9:GORDURA_ALL>32</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508939</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>33</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/41"/>
+    <j.7:PROTEINA>38</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508939#BK® Cheddar Original </URI>
+    <j.4:PRODUTO>BK® Cheddar Original </j.4:PRODUTO>
+    <j.3:GORDURA_SAT>16</j.3:GORDURA_SAT>
+    <j.1:SODIO>550</j.1:SODIO>
+    <j.8:CALORIAS>541</j.8:CALORIAS>
+    <j.6:FIBRA>0</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/53">
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.8:CALORIAS>203</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q152088#Batata Frita pequena </URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/53"/>
+    <j.1:SODIO>360</j.1:SODIO>
+    <j.7:PROTEINA>3</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>10</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q152088</WIKIDATA_ID>
+    <j.4:PRODUTO>Batata Frita pequena </j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>24</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/107">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/81">
+    <j.3:GORDURA_SAT>30</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.1:SODIO>646</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.4:PRODUTO>Cheese Salad</j.4:PRODUTO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/81"/>
+    <j.8:CALORIAS>451</j.8:CALORIAS>
+    <j.7:PROTEINA>14</j.7:PROTEINA>
+    <WIKIDATA_ID>Q120507499</WIKIDATA_ID>
+    <URI>https://www.wikidata.org/wiki/Q120507499#Cheese Salad</URI>
+    <j.9:GORDURA_ALL>30</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/4">
+    <j.8:CALORIAS>499</j.8:CALORIAS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>42</j.2:CARBOIDRATOS>
+    <j.1:SODIO>867</j.1:SODIO>
+    <WIKIDATA_ID>Q506796</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>26</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>26</j.7:PROTEINA>
+    <j.4:PRODUTO>McBigMac</j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q506796#McBigMac</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/93">
+    <j.2:CARBOIDRATOS>28</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120509023</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>Cheddar Veggie Carne</j.4:PRODUTO>
+    <j.1:SODIO>774</j.1:SODIO>
+    <j.8:CALORIAS>247</j.8:CALORIAS>
+    <j.9:GORDURA_ALL>10</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/93"/>
+    <j.7:PROTEINA>11</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120509023#Cheddar Veggie Carne</URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/14">
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Cheeseburguer</j.4:PRODUTO>
+    <j.7:PROTEINA>15</j.7:PROTEINA>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q667478#Cheeseburguer</URI>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <j.8:CALORIAS>297</j.8:CALORIAS>
+    <j.9:GORDURA_ALL>12</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/14"/>
+    <j.1:SODIO>650</j.1:SODIO>
+    <WIKIDATA_ID>Q667478</WIKIDATA_ID>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/26">
+    <j.2:CARBOIDRATOS>28</j.2:CARBOIDRATOS>
+    <j.8:CALORIAS>363</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>18</j.9:GORDURA_ALL>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120508921#Pão, Carne e Queijo </URI>
+    <WIKIDATA_ID>Q120508921</WIKIDATA_ID>
+    <j.1:SODIO>379</j.1:SODIO>
+    <j.4:PRODUTO>Pão, Carne e Queijo </j.4:PRODUTO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/26"/>
+    <j.7:PROTEINA>21</j.7:PROTEINA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>9</j.3:GORDURA_SAT>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/38">
+    <j.7:PROTEINA>73</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>33</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/38"/>
+    <URI>https://www.wikidata.org/wiki/Q120508932#Mega Stacker Cheddar 2.0 </URI>
+    <j.8:CALORIAS>1.274</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120508932</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>51</j.2:CARBOIDRATOS>
+    <j.1:SODIO>2.02</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Mega Stacker Cheddar 2.0 </j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>84</j.9:GORDURA_ALL>
+    <j.6:FIBRA>4</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/54">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120508972</WIKIDATA_ID>
+    <j.8:CALORIAS>346</j.8:CALORIAS>
+    <j.1:SODIO>194</j.1:SODIO>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>3</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/54"/>
+    <j.9:GORDURA_ALL>24</j.9:GORDURA_ALL>
+    <j.3:GORDURA_SAT>7</j.3:GORDURA_SAT>
+    <j.2:CARBOIDRATOS>27</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q120508972#Batata Frita média  </URI>
+    <j.4:PRODUTO>Batata Frita média  </j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/66">
+    <j.4:PRODUTO>BigBob Frango</j.4:PRODUTO>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <j.2:CARBOIDRATOS>38</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120508992</WIKIDATA_ID>
+    <j.9:GORDURA_ALL>25</j.9:GORDURA_ALL>
+    <URI>https://www.wikidata.org/wiki/Q120508992#BigBob Frango</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/66"/>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.8:CALORIAS>494</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.7:PROTEINA>25</j.7:PROTEINA>
+    <j.1:SODIO>1308</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/78">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <j.8:CALORIAS>286</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120509016#Bobs Burguer Frango</URI>
+    <WIKIDATA_ID>Q120509016</WIKIDATA_ID>
+    <j.4:PRODUTO>Bobs Burguer Frango</j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/78"/>
+    <j.9:GORDURA_ALL>14</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>12</j.7:PROTEINA>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.1:SODIO>715</j.1:SODIO>
+    <j.6:FIBRA>3</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/94">
+    <j.4:PRODUTO>Batata Palito Média</j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q120509026#Batata Palito Média</URI>
+    <j.6:FIBRA>5</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/94"/>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>11</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>46</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120509026</WIKIDATA_ID>
+    <j.1:SODIO>90</j.1:SODIO>
+    <j.7:PROTEINA>5</j.7:PROTEINA>
+    <j.8:CALORIAS>307</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/30">
+    <j.2:CARBOIDRATOS>47</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/30"/>
+    <j.7:PROTEINA>108</j.7:PROTEINA>
+    <j.8:CALORIAS>1.675</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120508924#Stacker Triplo </URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>53</j.3:GORDURA_SAT>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.4:PRODUTO>Stacker Triplo </j.4:PRODUTO>
+    <WIKIDATA_ID>Q120508924</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.1:SODIO>2.274</j.1:SODIO>
+    <j.9:GORDURA_ALL>113</j.9:GORDURA_ALL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/42">
+    <j.8:CALORIAS>588</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>50</j.2:CARBOIDRATOS>
+    <j.9:GORDURA_ALL>32</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508941</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/42"/>
+    <j.1:SODIO>1.252</j.1:SODIO>
+    <j.3:GORDURA_SAT>12</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>23</j.7:PROTEINA>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120508941#Rodeio </URI>
+    <j.4:PRODUTO>Rodeio </j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/106">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/70">
+    <j.3:GORDURA_SAT>13</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/70"/>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>43</j.9:GORDURA_ALL>
+    <j.7:PROTEINA>19</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508997#Crispy Bacon</URI>
+    <j.8:CALORIAS>1425</j.8:CALORIAS>
+    <j.1:SODIO>1716</j.1:SODIO>
+    <j.2:CARBOIDRATOS>38</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q120508997</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Crispy Bacon</j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/82">
+    <j.7:PROTEINA>13</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120507501</WIKIDATA_ID>
+    <j.8:CALORIAS>279</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120507501#Bobs Burguer Carne</URI>
+    <j.1:SODIO>665</j.1:SODIO>
+    <j.4:PRODUTO>Bobs Burguer Carne</j.4:PRODUTO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/82"/>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>11</j.9:GORDURA_ALL>
+    <j.6:FIBRA>2</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/15">
+    <URI>https://www.wikidata.org/wiki/Q6663#Hamburguer</URI>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <j.2:CARBOIDRATOS>30</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>8</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>249</j.8:CALORIAS>
+    <j.1:SODIO>470</j.1:SODIO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/15"/>
+    <j.7:PROTEINA>13</j.7:PROTEINA>
+    <WIKIDATA_ID>Q6663</WIKIDATA_ID>
+    <j.4:PRODUTO>Hamburguer</j.4:PRODUTO>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/27">
+    <j.4:PRODUTO>Cheeseburger </j.4:PRODUTO>
+    <URI>https://www.wikidata.org/wiki/Q667478#Cheeseburger </URI>
+    <j.1:SODIO>723</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>408</j.8:CALORIAS>
+    <j.3:GORDURA_SAT>10</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>22</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID>Q667478</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/27"/>
+    <j.6:FIBRA>2</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/39">
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.1:SODIO>2.511</j.1:SODIO>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <URI>https://www.wikidata.org/wiki/Q120508934#Mega Stacker Cheddar 3.0 </URI>
+    <j.3:GORDURA_SAT>49</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>116</j.9:GORDURA_ALL>
+    <j.4:PRODUTO>Mega Stacker Cheddar 3.0 </j.4:PRODUTO>
+    <j.8:CALORIAS>1.718</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>54</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID>Q120508934</WIKIDATA_ID>
+    <j.7:PROTEINA>105</j.7:PROTEINA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/43">
+    <URI>https://www.wikidata.org/wiki/Q120508943#Rodeio Duplo </URI>
+    <j.1:SODIO>1.313</j.1:SODIO>
+    <j.6:FIBRA>0</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/43"/>
+    <j.9:GORDURA_ALL>47</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.7:PROTEINA>38</j.7:PROTEINA>
+    <WIKIDATA_ID>Q120508943</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.3:GORDURA_SAT>19</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>Rodeio Duplo </j.4:PRODUTO>
+    <j.8:CALORIAS>802</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>51</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/55">
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508974#Batata Frita grande </URI>
+    <j.2:CARBOIDRATOS>46</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.4:PRODUTO>Batata Frita grande </j.4:PRODUTO>
+    <j.7:PROTEINA>6</j.7:PROTEINA>
+    <j.8:CALORIAS>389</j.8:CALORIAS>
+    <WIKIDATA_ID>Q120508974</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/55"/>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.1:SODIO>692</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/67">
+    <j.4:PRODUTO>Cheddar Australiano Carne</j.4:PRODUTO>
+    <WIKIDATA_ID>Q120508993</WIKIDATA_ID>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>31</j.2:CARBOIDRATOS>
+    <j.8:CALORIAS>391</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/67"/>
+    <URI>https://www.wikidata.org/wiki/Q120508993#Cheddar Australiano Carne</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>8</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>19</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>24</j.7:PROTEINA>
+    <j.1:SODIO>1125</j.1:SODIO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/79">
+    <j.9:GORDURA_ALL>16</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>371</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.4:PRODUTO>Cheddar Australiano Frango</j.4:PRODUTO>
+    <j.1:SODIO>1459</j.1:SODIO>
+    <j.3:GORDURA_SAT>6</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120509017</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.7:PROTEINA>21</j.7:PROTEINA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <URI>https://www.wikidata.org/wiki/Q120509017#Cheddar Australiano Frango</URI>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/79"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/83">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>12</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120507503</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>14</j.7:PROTEINA>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.4:PRODUTO>Bobs Cheddar</j.4:PRODUTO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/83"/>
+    <URI>https://www.wikidata.org/wiki/Q120507503#Bobs Cheddar</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.1:SODIO>883</j.1:SODIO>
+    <j.8:CALORIAS>267</j.8:CALORIAS>
+    <j.2:CARBOIDRATOS>27</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/95">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.1:SODIO>111</j.1:SODIO>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508170#Batata Palito Grande</URI>
+    <j.2:CARBOIDRATOS>57</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/95"/>
+    <WIKIDATA_ID>Q120508170</WIKIDATA_ID>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.7:PROTEINA>6</j.7:PROTEINA>
+    <j.4:PRODUTO>Batata Palito Grande</j.4:PRODUTO>
+    <j.9:GORDURA_ALL>13</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.8:CALORIAS>378</j.8:CALORIAS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/7">
+    <WIKIDATA_ID>Q120507438</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/7"/>
+    <j.8:CALORIAS>662</j.8:CALORIAS>
+    <j.6:FIBRA>4</j.6:FIBRA>
+    <j.2:CARBOIDRATOS>40</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>34</j.7:PROTEINA>
+    <j.1:SODIO>1308</j.1:SODIO>
+    <j.3:GORDURA_SAT>15</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>39</j.9:GORDURA_ALL>
+    <URI>https://www.wikidata.org/wiki/Q120507438#McNificoBacon</URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.4:PRODUTO>McNificoBacon</j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/31">
+    <WIKIDATA_ID>Q120508925</WIKIDATA_ID>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.8:CALORIAS>378</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120508925#Cheddar </URI>
+    <j.7:PROTEINA>19</j.7:PROTEINA>
+    <j.1:SODIO>525</j.1:SODIO>
+    <j.3:GORDURA_SAT>9</j.3:GORDURA_SAT>
+    <j.9:GORDURA_ALL>19</j.9:GORDURA_ALL>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.4:PRODUTO>Cheddar </j.4:PRODUTO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.2:CARBOIDRATOS>30</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/6">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/6"/>
+    <j.8:CALORIAS>549</j.8:CALORIAS>
+    <j.0:GORDURA_TRAN>1</j.0:GORDURA_TRAN>
+    <j.1:SODIO>1010</j.1:SODIO>
+    <j.3:GORDURA_SAT>15</j.3:GORDURA_SAT>
+    <j.7:PROTEINA>31</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120507436#Quarteirão</URI>
+    <j.2:CARBOIDRATOS>34</j.2:CARBOIDRATOS>
+    <j.9:GORDURA_ALL>32</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <WIKIDATA_ID>Q120507436</WIKIDATA_ID>
+    <j.4:PRODUTO>Quarteirão</j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/71">
+    <j.8:CALORIAS>467</j.8:CALORIAS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.7:PROTEINA>21</j.7:PROTEINA>
+    <j.4:PRODUTO>Chicken Bacon</j.4:PRODUTO>
+    <j.3:GORDURA_SAT>31</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.1:SODIO>1534</j.1:SODIO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>31</j.9:GORDURA_ALL>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/71"/>
+    <URI>https://www.wikidata.org/wiki/Q120508998#Chicken Bacon</URI>
+    <WIKIDATA_ID>Q120508998</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/16">
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.9:GORDURA_ALL>16</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>38</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >McDonalds</j.5:RESTAURANTE>
+    <WIKIDATA_ID>Q120508112</WIKIDATA_ID>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/16"/>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.3:GORDURA_SAT>2</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508112#Chicken Jr</URI>
+    <j.8:CALORIAS>342</j.8:CALORIAS>
+    <j.7:PROTEINA>11</j.7:PROTEINA>
+    <j.1:SODIO>725</j.1:SODIO>
+    <j.4:PRODUTO>Chicken Jr</j.4:PRODUTO>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/28">
+    <WIKIDATA_ID>Q120508922</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.1:SODIO>958</j.1:SODIO>
+    <j.7:PROTEINA>27</j.7:PROTEINA>
+    <j.2:CARBOIDRATOS>30</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/28"/>
+    <j.4:PRODUTO>Cheeseburger Bacon </j.4:PRODUTO>
+    <j.8:CALORIAS>467</j.8:CALORIAS>
+    <j.9:GORDURA_ALL>25</j.9:GORDURA_ALL>
+    <j.3:GORDURA_SAT>12</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508922#Cheeseburger Bacon </URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/32">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/32"/>
+    <j.2:CARBOIDRATOS>32</j.2:CARBOIDRATOS>
+    <j.4:PRODUTO>Cheddar Duplo </j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>35</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508927#Cheddar Duplo </URI>
+    <WIKIDATA_ID>Q120508927</WIKIDATA_ID>
+    <j.1:SODIO>690</j.1:SODIO>
+    <j.3:GORDURA_SAT>18</j.3:GORDURA_SAT>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.9:GORDURA_ALL>36</j.9:GORDURA_ALL>
+    <j.8:CALORIAS>607</j.8:CALORIAS>
+    <j.6:FIBRA>2</j.6:FIBRA>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/44">
+    <j.1:SODIO>733</j.1:SODIO>
+    <j.8:CALORIAS>345</j.8:CALORIAS>
+    <j.4:PRODUTO>Chicken Jr. </j.4:PRODUTO>
+    <j.7:PROTEINA>16</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508945#Chicken Jr. </URI>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.2:CARBOIDRATOS>35</j.2:CARBOIDRATOS>
+    <j.6:FIBRA>3</j.6:FIBRA>
+    <j.9:GORDURA_ALL>16</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508945</WIKIDATA_ID>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>3</j.3:GORDURA_SAT>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/56">
+    <j.7:PROTEINA>12</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120508976#BK® Balde de Batatas </URI>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.6:FIBRA>12</j.6:FIBRA>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID>Q120508976</WIKIDATA_ID>
+    <j.3:GORDURA_SAT>12</j.3:GORDURA_SAT>
+    <j.4:PRODUTO>BK® Balde de Batatas </j.4:PRODUTO>
+    <j.9:GORDURA_ALL>40</j.9:GORDURA_ALL>
+    <j.1:SODIO>1.384</j.1:SODIO>
+    <j.2:CARBOIDRATOS>92</j.2:CARBOIDRATOS>
+    <j.8:CALORIAS>778</j.8:CALORIAS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/56"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/68">
+    <j.1:SODIO>1971</j.1:SODIO>
+    <j.3:GORDURA_SAT>26</j.3:GORDURA_SAT>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <j.4:PRODUTO>Bobs Premium</j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>29</j.2:CARBOIDRATOS>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/68"/>
+    <j.7:PROTEINA>46</j.7:PROTEINA>
+    <j.9:GORDURA_ALL>58</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q120508995</WIKIDATA_ID>
+    <j.8:CALORIAS>845</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <URI>https://www.wikidata.org/wiki/Q120508995#Bobs Premium</URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/72">
+    <j.4:PRODUTO>Tentador Frango</j.4:PRODUTO>
+    <j.0:GORDURA_TRAN>10</j.0:GORDURA_TRAN>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/72"/>
+    <j.7:PROTEINA>0</j.7:PROTEINA>
+    <j.8:CALORIAS>1484</j.8:CALORIAS>
+    <j.9:GORDURA_ALL>20</j.9:GORDURA_ALL>
+    <j.1:SODIO>47</j.1:SODIO>
+    <j.6:FIBRA>1</j.6:FIBRA>
+    <WIKIDATA_ID>Q120508999</WIKIDATA_ID>
+    <j.2:CARBOIDRATOS>44</j.2:CARBOIDRATOS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>2047</j.3:GORDURA_SAT>
+    <URI>https://www.wikidata.org/wiki/Q120508999#Tentador Frango</URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/84">
+    <j.9:GORDURA_ALL>11</j.9:GORDURA_ALL>
+    <j.2:CARBOIDRATOS>25</j.2:CARBOIDRATOS>
+    <j.7:PROTEINA>15</j.7:PROTEINA>
+    <URI>https://www.wikidata.org/wiki/Q120507505#Cheeseburguer Carne</URI>
+    <j.1:SODIO>353</j.1:SODIO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/84"/>
+    <j.3:GORDURA_SAT>5</j.3:GORDURA_SAT>
+    <WIKIDATA_ID>Q120507505</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.6:FIBRA>2</j.6:FIBRA>
+    <j.4:PRODUTO>Cheeseburguer Carne</j.4:PRODUTO>
+    <j.8:CALORIAS>264</j.8:CALORIAS>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/96">
+    <WIKIDATA_ID>Q120508171</WIKIDATA_ID>
+    <j.6:FIBRA>10</j.6:FIBRA>
+    <j.4:PRODUTO>Batata Palito Mega</j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>92</j.2:CARBOIDRATOS>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>9</j.7:PROTEINA>
+    <j.8:CALORIAS>612</j.8:CALORIAS>
+    <URI>https://www.wikidata.org/wiki/Q120508171#Batata Palito Mega</URI>
+    <j.9:GORDURA_ALL>21</j.9:GORDURA_ALL>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >Bobs</j.5:RESTAURANTE>
+    <j.3:GORDURA_SAT>4</j.3:GORDURA_SAT>
+    <j.1:SODIO>179</j.1:SODIO>
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/96"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/105">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/105"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/20">
+    <WIKIDATA_ID rdf:resource="https://www.wikidata.org/wiki/20"/>
+    <j.6:FIBRA>6</j.6:FIBRA>
+    <j.9:GORDURA_ALL>51</j.9:GORDURA_ALL>
+    <WIKIDATA_ID>Q1135327</WIKIDATA_ID>
+    <j.0:GORDURA_TRAN>0</j.0:GORDURA_TRAN>
+    <j.7:PROTEINA>39</j.7:PROTEINA>
+    <j.4:PRODUTO>WHOPPER® </j.4:PRODUTO>
+    <j.2:CARBOIDRATOS>48</j.2:CARBOIDRATOS>
+    <URI>https://www.wikidata.org/wiki/Q1135327#WHOPPER® </URI>
+    <j.3:GORDURA_SAT>19</j.3:GORDURA_SAT>
+    <j.1:SODIO>1.135</j.1:SODIO>
+    <j.5:RESTAURANTE rdf:datatype="https://www.wikidata.org/wiki/"
+    >BurguerKing</j.5:RESTAURANTE>
+    <j.8:CALORIAS>819</j.8:CALORIAS>
+  </rdf:Description>
+</rdf:RDF>
